@@ -1,8 +1,8 @@
-# bestBuyApplication
+### bestBuyApplication
 
-# Project description:
+### Project description:
 
-# This project was created to test and validate CRUD scenarios to the Best Buy API Playground: https://github.com/bestbuy/api-playground
+### This project was created to test and validate CRUD scenarios to the Best Buy API Playground: https://github.com/bestbuy/api-playground
 
 # The project was created using the IntelliJ IDEA Community Edition 2018.2 and Gradle as dependency management in Windows 7 (Please, take in consideration this QA doesn't have access to an Apple Mac Book).
 
