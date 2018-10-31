@@ -27,7 +27,12 @@
 ### The test cases were creted using Rest assured.
 
 ### Test Cases that were automated:
-### Based on swagger documentation to BestBuy API, we've tried to automate as much scenarios as possible, mostly related to CRUD operations:
+### Based on swagger documentation to BestBuy API, we've tried to automate as much scenarios as possible, mostly related to CRUD operations to the endpoints:
+### - products
+### - stores
+### - services
+### - categories
+### - utilities
 
 
 ### What’s next?
